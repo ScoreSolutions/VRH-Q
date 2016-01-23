@@ -1,0 +1,223 @@
+C:\Users\Thoon\AppData\Local\Temporary Projects\QSharpExpress\bin\Debug\QSharpExpress.exe
+C:\Users\Thoon\AppData\Local\Temporary Projects\QSharpExpress\bin\Debug\QSharpExpress.pdb
+C:\Users\Thoon\AppData\Local\Temporary Projects\QSharpExpress\bin\Debug\QSharpExpress.xml
+C:\Users\Thoon\AppData\Local\Temporary Projects\QSharpExpress\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Thoon\AppData\Local\Temporary Projects\QSharpExpress\obj\Debug\QSharpExpress.Form1.resources
+C:\Users\Thoon\AppData\Local\Temporary Projects\QSharpExpress\obj\Debug\QSharpExpress.Resources.resources
+C:\Users\Thoon\AppData\Local\Temporary Projects\QSharpExpress\obj\Debug\QSharpExpress.vbproj.GenerateResource.Cache
+C:\Users\Thoon\AppData\Local\Temporary Projects\QSharpExpress\obj\Debug\QSharpExpress.exe
+C:\Users\Thoon\AppData\Local\Temporary Projects\QSharpExpress\obj\Debug\QSharpExpress.xml
+C:\Users\Thoon\AppData\Local\Temporary Projects\QSharpExpress\obj\Debug\QSharpExpress.pdb
+D:\mywork\QSharpExpress\QSharpExpress\obj\Debug\QSharpExpress.exe
+D:\mywork\QSharpExpress\QSharpExpress\obj\Debug\QSharpExpress.xml
+D:\mywork\QSharpExpress\QSharpExpress\obj\Debug\QSharpExpress.pdb
+D:\mywork\QSharpExpress\QSharpExpress\bin\Debug\QSharpExpress.exe.config
+D:\mywork\QSharpExpress\QSharpExpress\bin\Debug\QSharpExpress.exe
+D:\mywork\QSharpExpress\QSharpExpress\bin\Debug\QSharpExpress.pdb
+D:\mywork\QSharpExpress\QSharpExpress\bin\Debug\QSharpExpress.xml
+D:\mywork\QSharpExpress\QSharpExpress\obj\Debug\ResolveAssemblyReference.cache
+D:\mywork\QSharpExpress\QSharpExpress\obj\Debug\QSharpExpress.Form1.resources
+D:\mywork\QSharpExpress\QSharpExpress\obj\Debug\QSharpExpress.Resources.resources
+D:\mywork\QSharpExpress\QSharpExpress\obj\Debug\QSharpExpress.vbproj.GenerateResource.Cache
+D:\mywork\QSharpExpress\QSharpExpress\obj\Debug\QSharpExpress.Dialog1.resources
+N:\Skydrive\QSharpExpress\QSharpExpress\bin\Debug\QSharpExpress.exe.config
+N:\Skydrive\QSharpExpress\QSharpExpress\obj\Debug\QSharpExpress.exe
+N:\Skydrive\QSharpExpress\QSharpExpress\obj\Debug\QSharpExpress.xml
+N:\Skydrive\QSharpExpress\QSharpExpress\obj\Debug\QSharpExpress.pdb
+N:\Skydrive\QSharpExpress\QSharpExpress\bin\Debug\QSharpExpress.exe
+N:\Skydrive\QSharpExpress\QSharpExpress\bin\Debug\QSharpExpress.pdb
+N:\Skydrive\QSharpExpress\QSharpExpress\bin\Debug\QSharpExpress.xml
+N:\Skydrive\QSharpExpress\QSharpExpress\obj\Debug\ResolveAssemblyReference.cache
+N:\Skydrive\QSharpExpress\QSharpExpress\obj\Debug\QSharpExpress.Dialog1.resources
+N:\Skydrive\QSharpExpress\QSharpExpress\obj\Debug\QSharpExpress.Form1.resources
+N:\Skydrive\QSharpExpress\QSharpExpress\obj\Debug\QSharpExpress.Resources.resources
+N:\Skydrive\QSharpExpress\QSharpExpress\obj\Debug\QSharpExpress.vbproj.GenerateResource.Cache
+K:\Skydrive\QSharpExpress\QSharpExpress\bin\Debug\QSharpExpress.exe.config
+K:\Skydrive\QSharpExpress\QSharpExpress\obj\Debug\QSharpExpress.exe
+K:\Skydrive\QSharpExpress\QSharpExpress\obj\Debug\QSharpExpress.xml
+K:\Skydrive\QSharpExpress\QSharpExpress\obj\Debug\QSharpExpress.pdb
+K:\Skydrive\QSharpExpress\QSharpExpress\bin\Debug\QSharpExpress.exe
+K:\Skydrive\QSharpExpress\QSharpExpress\bin\Debug\QSharpExpress.pdb
+K:\Skydrive\QSharpExpress\QSharpExpress\bin\Debug\QSharpExpress.xml
+K:\Skydrive\QSharpExpress\QSharpExpress\obj\Debug\ResolveAssemblyReference.cache
+K:\Skydrive\QSharpExpress\QSharpExpress\obj\Debug\QSharpExpress.Dialog1.resources
+K:\Skydrive\QSharpExpress\QSharpExpress\obj\Debug\QSharpExpress.Form1.resources
+K:\Skydrive\QSharpExpress\QSharpExpress\obj\Debug\QSharpExpress.Resources.resources
+K:\Skydrive\QSharpExpress\QSharpExpress\obj\Debug\QSharpExpress.vbproj.GenerateResource.Cache
+H:\Skydrive\QSharpExpress\QSharpExpress\bin\Debug\QSharpExpress.exe.config
+H:\Skydrive\QSharpExpress\QSharpExpress\obj\Debug\QSharpExpress.exe
+H:\Skydrive\QSharpExpress\QSharpExpress\obj\Debug\QSharpExpress.xml
+H:\Skydrive\QSharpExpress\QSharpExpress\obj\Debug\QSharpExpress.pdb
+H:\Skydrive\QSharpExpress\QSharpExpress\bin\Debug\QSharpExpress.exe
+H:\Skydrive\QSharpExpress\QSharpExpress\bin\Debug\QSharpExpress.pdb
+H:\Skydrive\QSharpExpress\QSharpExpress\bin\Debug\QSharpExpress.xml
+H:\Skydrive\QSharpExpress\QSharpExpress\obj\Debug\ResolveAssemblyReference.cache
+H:\Skydrive\QSharpExpress\QSharpExpress\obj\Debug\QSharpExpress.Dialog1.resources
+H:\Skydrive\QSharpExpress\QSharpExpress\obj\Debug\QSharpExpress.Form1.resources
+H:\Skydrive\QSharpExpress\QSharpExpress\obj\Debug\QSharpExpress.Resources.resources
+H:\Skydrive\QSharpExpress\QSharpExpress\obj\Debug\QSharpExpress.vbproj.GenerateResource.Cache
+G:\Skydrive\QSharpExpress\QSharpExpress\bin\Debug\QSharpExpress.exe.config
+G:\Skydrive\QSharpExpress\QSharpExpress\obj\Debug\QSharpExpress.exe
+G:\Skydrive\QSharpExpress\QSharpExpress\obj\Debug\QSharpExpress.xml
+G:\Skydrive\QSharpExpress\QSharpExpress\obj\Debug\QSharpExpress.pdb
+G:\Skydrive\QSharpExpress\QSharpExpress\bin\Debug\QSharpExpress.exe
+G:\Skydrive\QSharpExpress\QSharpExpress\bin\Debug\QSharpExpress.pdb
+G:\Skydrive\QSharpExpress\QSharpExpress\bin\Debug\QSharpExpress.xml
+G:\Skydrive\QSharpExpress\QSharpExpress\obj\Debug\ResolveAssemblyReference.cache
+G:\Skydrive\QSharpExpress\QSharpExpress\obj\Debug\QSharpExpress.Dialog1.resources
+G:\Skydrive\QSharpExpress\QSharpExpress\obj\Debug\QSharpExpress.Form1.resources
+G:\Skydrive\QSharpExpress\QSharpExpress\obj\Debug\QSharpExpress.Resources.resources
+G:\Skydrive\QSharpExpress\QSharpExpress\obj\Debug\QSharpExpress.vbproj.GenerateResource.Cache
+D:\Project\121005QSharpExpress_BAH-Q\QSharpExpress\bin\Debug\QSharpExpress.exe.config
+D:\Project\121005QSharpExpress_BAH-Q\QSharpExpress\obj\Debug\QSharpExpress.exe
+D:\Project\121005QSharpExpress_BAH-Q\QSharpExpress\obj\Debug\QSharpExpress.xml
+D:\Project\121005QSharpExpress_BAH-Q\QSharpExpress\obj\Debug\QSharpExpress.pdb
+D:\Project\121005QSharpExpress_BAH-Q\QSharpExpress\bin\Debug\QSharpExpress.exe
+D:\Project\121005QSharpExpress_BAH-Q\QSharpExpress\bin\Debug\QSharpExpress.pdb
+D:\Project\121005QSharpExpress_BAH-Q\QSharpExpress\bin\Debug\QSharpExpress.xml
+D:\Project\121005QSharpExpress_BAH-Q\QSharpExpress\bin\Debug\Interop.ShockwaveFlashObjects.dll
+D:\Project\121005QSharpExpress_BAH-Q\QSharpExpress\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\Project\121005QSharpExpress_BAH-Q\QSharpExpress\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\121005QSharpExpress_BAH-Q\QSharpExpress\obj\Debug\Interop.ShockwaveFlashObjects.dll
+D:\Project\121005QSharpExpress_BAH-Q\QSharpExpress\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\Project\121005QSharpExpress_BAH-Q\QSharpExpress\obj\Debug\QSharpExpress.vbproj.ResolveComReference.cache
+D:\Project\121005QSharpExpress_BAH-Q\QSharpExpress\obj\Debug\QSharpExpress.Dialog1.resources
+D:\Project\121005QSharpExpress_BAH-Q\QSharpExpress\obj\Debug\QSharpExpress.Form1.resources
+D:\Project\121005QSharpExpress_BAH-Q\QSharpExpress\obj\Debug\QSharpExpress.Resources.resources
+D:\Project\121005QSharpExpress_BAH-Q\QSharpExpress\obj\Debug\QSharpExpress.vbproj.GenerateResource.Cache
+D:\Project\121005QSharpExpress_VJH-Q\QSharpExpress\bin\Debug\QSharpExpress.exe.config
+D:\Project\121005QSharpExpress_VJH-Q\QSharpExpress\obj\Debug\Interop.ShockwaveFlashObjects.dll
+D:\Project\121005QSharpExpress_VJH-Q\QSharpExpress\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\Project\121005QSharpExpress_VJH-Q\QSharpExpress\obj\Debug\QSharpExpress.vbproj.ResolveComReference.cache
+D:\Project\121005QSharpExpress_VJH-Q\QSharpExpress\obj\Debug\QSharpExpress.exe
+D:\Project\121005QSharpExpress_VJH-Q\QSharpExpress\obj\Debug\QSharpExpress.xml
+D:\Project\121005QSharpExpress_VJH-Q\QSharpExpress\obj\Debug\QSharpExpress.pdb
+D:\Project\121005QSharpExpress_VJH-Q\QSharpExpress\bin\Debug\QSharpExpress.exe
+D:\Project\121005QSharpExpress_VJH-Q\QSharpExpress\bin\Debug\QSharpExpress.pdb
+D:\Project\121005QSharpExpress_VJH-Q\QSharpExpress\bin\Debug\QSharpExpress.xml
+D:\Project\121005QSharpExpress_VJH-Q\QSharpExpress\bin\Debug\Interop.ShockwaveFlashObjects.dll
+D:\Project\121005QSharpExpress_VJH-Q\QSharpExpress\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\Project\121005QSharpExpress_VJH-Q\QSharpExpress\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\121005QSharpExpress_VJH-Q\QSharpExpress\obj\Debug\QSharpExpress.Dialog1.resources
+D:\Project\121005QSharpExpress_VJH-Q\QSharpExpress\obj\Debug\QSharpExpress.Form1.resources
+D:\Project\121005QSharpExpress_VJH-Q\QSharpExpress\obj\Debug\QSharpExpress.Resources.resources
+D:\Project\121005QSharpExpress_VJH-Q\QSharpExpress\obj\Debug\QSharpExpress.vbproj.GenerateResource.Cache
+N:\121005QSharpExpress_VJH-Q\QSharpExpress\bin\Debug\QSharpExpress.exe.config
+N:\121005QSharpExpress_VJH-Q\QSharpExpress\obj\Debug\Interop.ShockwaveFlashObjects.dll
+N:\121005QSharpExpress_VJH-Q\QSharpExpress\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+N:\121005QSharpExpress_VJH-Q\QSharpExpress\obj\Debug\QSharpExpress.vbproj.ResolveComReference.cache
+N:\121005QSharpExpress_VJH-Q\QSharpExpress\obj\Debug\QSharpExpress.exe
+N:\121005QSharpExpress_VJH-Q\QSharpExpress\obj\Debug\QSharpExpress.xml
+N:\121005QSharpExpress_VJH-Q\QSharpExpress\obj\Debug\QSharpExpress.pdb
+N:\121005QSharpExpress_VJH-Q\QSharpExpress\bin\Debug\QSharpExpress.exe
+N:\121005QSharpExpress_VJH-Q\QSharpExpress\bin\Debug\QSharpExpress.pdb
+N:\121005QSharpExpress_VJH-Q\QSharpExpress\bin\Debug\QSharpExpress.xml
+N:\121005QSharpExpress_VJH-Q\QSharpExpress\bin\Debug\Interop.ShockwaveFlashObjects.dll
+N:\121005QSharpExpress_VJH-Q\QSharpExpress\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+N:\121005QSharpExpress_VJH-Q\QSharpExpress\obj\Debug\ResolveAssemblyReference.cache
+N:\121005QSharpExpress_VJH-Q\QSharpExpress\obj\Debug\QSharpExpress.Dialog1.resources
+N:\121005QSharpExpress_VJH-Q\QSharpExpress\obj\Debug\QSharpExpress.Form1.resources
+N:\121005QSharpExpress_VJH-Q\QSharpExpress\obj\Debug\QSharpExpress.Resources.resources
+N:\121005QSharpExpress_VJH-Q\QSharpExpress\obj\Debug\QSharpExpress.vbproj.GenerateResource.Cache
+K:\121005QSharpExpress_VJH-Q\QSharpExpress\bin\Debug\QSharpExpress.exe.config
+K:\121005QSharpExpress_VJH-Q\QSharpExpress\obj\Debug\Interop.ShockwaveFlashObjects.dll
+K:\121005QSharpExpress_VJH-Q\QSharpExpress\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+K:\121005QSharpExpress_VJH-Q\QSharpExpress\obj\Debug\QSharpExpress.vbproj.ResolveComReference.cache
+K:\121005QSharpExpress_VJH-Q\QSharpExpress\obj\Debug\QSharpExpress.exe
+K:\121005QSharpExpress_VJH-Q\QSharpExpress\obj\Debug\QSharpExpress.xml
+K:\121005QSharpExpress_VJH-Q\QSharpExpress\obj\Debug\QSharpExpress.pdb
+K:\121005QSharpExpress_VJH-Q\QSharpExpress\bin\Debug\QSharpExpress.exe
+K:\121005QSharpExpress_VJH-Q\QSharpExpress\bin\Debug\QSharpExpress.pdb
+K:\121005QSharpExpress_VJH-Q\QSharpExpress\bin\Debug\QSharpExpress.xml
+K:\121005QSharpExpress_VJH-Q\QSharpExpress\bin\Debug\Interop.ShockwaveFlashObjects.dll
+K:\121005QSharpExpress_VJH-Q\QSharpExpress\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+K:\121005QSharpExpress_VJH-Q\QSharpExpress\obj\Debug\ResolveAssemblyReference.cache
+K:\121005QSharpExpress_VJH-Q\QSharpExpress\obj\Debug\QSharpExpress.Dialog1.resources
+K:\121005QSharpExpress_VJH-Q\QSharpExpress\obj\Debug\QSharpExpress.Form1.resources
+K:\121005QSharpExpress_VJH-Q\QSharpExpress\obj\Debug\QSharpExpress.Resources.resources
+K:\121005QSharpExpress_VJH-Q\QSharpExpress\obj\Debug\QSharpExpress.vbproj.GenerateResource.Cache
+G:\121005QSharpExpress_VJH-Q\QSharpExpress\bin\Debug\QSharpExpress.exe.config
+G:\121005QSharpExpress_VJH-Q\QSharpExpress\obj\Debug\Interop.ShockwaveFlashObjects.dll
+G:\121005QSharpExpress_VJH-Q\QSharpExpress\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+G:\121005QSharpExpress_VJH-Q\QSharpExpress\obj\Debug\QSharpExpress.vbproj.ResolveComReference.cache
+G:\121005QSharpExpress_VJH-Q\QSharpExpress\obj\Debug\QSharpExpress.exe
+G:\121005QSharpExpress_VJH-Q\QSharpExpress\obj\Debug\QSharpExpress.xml
+G:\121005QSharpExpress_VJH-Q\QSharpExpress\obj\Debug\QSharpExpress.pdb
+G:\121005QSharpExpress_VJH-Q\QSharpExpress\bin\Debug\QSharpExpress.exe
+G:\121005QSharpExpress_VJH-Q\QSharpExpress\bin\Debug\QSharpExpress.pdb
+G:\121005QSharpExpress_VJH-Q\QSharpExpress\bin\Debug\QSharpExpress.xml
+G:\121005QSharpExpress_VJH-Q\QSharpExpress\bin\Debug\Interop.ShockwaveFlashObjects.dll
+G:\121005QSharpExpress_VJH-Q\QSharpExpress\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+G:\121005QSharpExpress_VJH-Q\QSharpExpress\obj\Debug\ResolveAssemblyReference.cache
+G:\121005QSharpExpress_VJH-Q\QSharpExpress\obj\Debug\QSharpExpress.Dialog1.resources
+G:\121005QSharpExpress_VJH-Q\QSharpExpress\obj\Debug\QSharpExpress.Form1.resources
+G:\121005QSharpExpress_VJH-Q\QSharpExpress\obj\Debug\QSharpExpress.Resources.resources
+G:\121005QSharpExpress_VJH-Q\QSharpExpress\obj\Debug\QSharpExpress.vbproj.GenerateResource.Cache
+D:\Project\121031QSharpExpress_VJH-Q - Copy\QSharpExpress\bin\Debug\QSharpExpress.exe.config
+D:\Project\121031QSharpExpress_VJH-Q - Copy\QSharpExpress\obj\Debug\Interop.ShockwaveFlashObjects.dll
+D:\Project\121031QSharpExpress_VJH-Q - Copy\QSharpExpress\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\Project\121031QSharpExpress_VJH-Q - Copy\QSharpExpress\obj\Debug\QSharpExpress.vbproj.ResolveComReference.cache
+D:\Project\121031QSharpExpress_VJH-Q - Copy\QSharpExpress\obj\Debug\QSharpExpress.exe
+D:\Project\121031QSharpExpress_VJH-Q - Copy\QSharpExpress\obj\Debug\QSharpExpress.xml
+D:\Project\121031QSharpExpress_VJH-Q - Copy\QSharpExpress\obj\Debug\QSharpExpress.pdb
+D:\Project\121031QSharpExpress_VJH-Q - Copy\QSharpExpress\bin\Debug\QSharpExpress.exe
+D:\Project\121031QSharpExpress_VJH-Q - Copy\QSharpExpress\bin\Debug\QSharpExpress.pdb
+D:\Project\121031QSharpExpress_VJH-Q - Copy\QSharpExpress\bin\Debug\QSharpExpress.xml
+D:\Project\121031QSharpExpress_VJH-Q - Copy\QSharpExpress\bin\Debug\Interop.ShockwaveFlashObjects.dll
+D:\Project\121031QSharpExpress_VJH-Q - Copy\QSharpExpress\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\Project\121031QSharpExpress_VJH-Q - Copy\QSharpExpress\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\121031QSharpExpress_VJH-Q - Copy\QSharpExpress\obj\Debug\QSharpExpress.Dialog1.resources
+D:\Project\121031QSharpExpress_VJH-Q - Copy\QSharpExpress\obj\Debug\QSharpExpress.Form1.resources
+D:\Project\121031QSharpExpress_VJH-Q - Copy\QSharpExpress\obj\Debug\QSharpExpress.Resources.resources
+D:\Project\121031QSharpExpress_VJH-Q - Copy\QSharpExpress\obj\Debug\QSharpExpress.vbproj.GenerateResource.Cache
+H:\121031QSharpExpress_VJH-Q - Copy\QSharpExpress\bin\Debug\QSharpExpress.exe.config
+H:\121031QSharpExpress_VJH-Q - Copy\QSharpExpress\obj\Debug\Interop.ShockwaveFlashObjects.dll
+H:\121031QSharpExpress_VJH-Q - Copy\QSharpExpress\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+H:\121031QSharpExpress_VJH-Q - Copy\QSharpExpress\obj\Debug\QSharpExpress.vbproj.ResolveComReference.cache
+H:\121031QSharpExpress_VJH-Q - Copy\QSharpExpress\obj\Debug\QSharpExpress.exe
+H:\121031QSharpExpress_VJH-Q - Copy\QSharpExpress\obj\Debug\QSharpExpress.xml
+H:\121031QSharpExpress_VJH-Q - Copy\QSharpExpress\obj\Debug\QSharpExpress.pdb
+H:\121031QSharpExpress_VJH-Q - Copy\QSharpExpress\bin\Debug\QSharpExpress.exe
+H:\121031QSharpExpress_VJH-Q - Copy\QSharpExpress\bin\Debug\QSharpExpress.pdb
+H:\121031QSharpExpress_VJH-Q - Copy\QSharpExpress\bin\Debug\QSharpExpress.xml
+H:\121031QSharpExpress_VJH-Q - Copy\QSharpExpress\bin\Debug\Interop.ShockwaveFlashObjects.dll
+H:\121031QSharpExpress_VJH-Q - Copy\QSharpExpress\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+H:\121031QSharpExpress_VJH-Q - Copy\QSharpExpress\obj\Debug\ResolveAssemblyReference.cache
+H:\121031QSharpExpress_VJH-Q - Copy\QSharpExpress\obj\Debug\QSharpExpress.Dialog1.resources
+H:\121031QSharpExpress_VJH-Q - Copy\QSharpExpress\obj\Debug\QSharpExpress.Form1.resources
+H:\121031QSharpExpress_VJH-Q - Copy\QSharpExpress\obj\Debug\QSharpExpress.Resources.resources
+H:\121031QSharpExpress_VJH-Q - Copy\QSharpExpress\obj\Debug\QSharpExpress.vbproj.GenerateResource.Cache
+D:\MyProject\VRH\QSharpExpress_VJH-Q\QSharpExpress\bin\Debug\QSharpExpress.exe.config
+D:\MyProject\VRH\QSharpExpress_VJH-Q\QSharpExpress\obj\Debug\Interop.ShockwaveFlashObjects.dll
+D:\MyProject\VRH\QSharpExpress_VJH-Q\QSharpExpress\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\MyProject\VRH\QSharpExpress_VJH-Q\QSharpExpress\obj\Debug\QSharpExpress.vbproj.ResolveComReference.cache
+D:\MyProject\VRH\QSharpExpress_VJH-Q\QSharpExpress\obj\Debug\QSharpExpress.exe
+D:\MyProject\VRH\QSharpExpress_VJH-Q\QSharpExpress\obj\Debug\QSharpExpress.xml
+D:\MyProject\VRH\QSharpExpress_VJH-Q\QSharpExpress\obj\Debug\QSharpExpress.pdb
+D:\MyProject\VRH\QSharpExpress_VJH-Q\QSharpExpress\bin\Debug\QSharpExpress.exe
+D:\MyProject\VRH\QSharpExpress_VJH-Q\QSharpExpress\bin\Debug\QSharpExpress.pdb
+D:\MyProject\VRH\QSharpExpress_VJH-Q\QSharpExpress\bin\Debug\QSharpExpress.xml
+D:\MyProject\VRH\QSharpExpress_VJH-Q\QSharpExpress\bin\Debug\Interop.ShockwaveFlashObjects.dll
+D:\MyProject\VRH\QSharpExpress_VJH-Q\QSharpExpress\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\MyProject\VRH\QSharpExpress_VJH-Q\QSharpExpress\obj\Debug\ResolveAssemblyReference.cache
+D:\MyProject\VRH\QSharpExpress_VJH-Q\QSharpExpress\obj\Debug\QSharpExpress.Dialog1.resources
+D:\MyProject\VRH\QSharpExpress_VJH-Q\QSharpExpress\obj\Debug\QSharpExpress.Form1.resources
+D:\MyProject\VRH\QSharpExpress_VJH-Q\QSharpExpress\obj\Debug\QSharpExpress.Resources.resources
+D:\MyProject\VRH\QSharpExpress_VJH-Q\QSharpExpress\obj\Debug\QSharpExpress.vbproj.GenerateResource.Cache
+D:\MyProject\VRH\VRH-Q\trunk\QSharpExpress_VJH-Q\QSharpExpress\bin\Debug\QSharpExpress.exe.config
+D:\MyProject\VRH\VRH-Q\trunk\QSharpExpress_VJH-Q\QSharpExpress\obj\Debug\Interop.ShockwaveFlashObjects.dll
+D:\MyProject\VRH\VRH-Q\trunk\QSharpExpress_VJH-Q\QSharpExpress\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\MyProject\VRH\VRH-Q\trunk\QSharpExpress_VJH-Q\QSharpExpress\obj\Debug\QSharpExpress.vbproj.ResolveComReference.cache
+D:\MyProject\VRH\VRH-Q\trunk\QSharpExpress_VJH-Q\QSharpExpress\obj\Debug\QSharpExpress.exe
+D:\MyProject\VRH\VRH-Q\trunk\QSharpExpress_VJH-Q\QSharpExpress\obj\Debug\QSharpExpress.xml
+D:\MyProject\VRH\VRH-Q\trunk\QSharpExpress_VJH-Q\QSharpExpress\obj\Debug\QSharpExpress.pdb
+D:\MyProject\VRH\VRH-Q\trunk\QSharpExpress_VJH-Q\QSharpExpress\bin\Debug\QSharpExpress.exe
+D:\MyProject\VRH\VRH-Q\trunk\QSharpExpress_VJH-Q\QSharpExpress\bin\Debug\QSharpExpress.pdb
+D:\MyProject\VRH\VRH-Q\trunk\QSharpExpress_VJH-Q\QSharpExpress\bin\Debug\QSharpExpress.xml
+D:\MyProject\VRH\VRH-Q\trunk\QSharpExpress_VJH-Q\QSharpExpress\bin\Debug\Interop.ShockwaveFlashObjects.dll
+D:\MyProject\VRH\VRH-Q\trunk\QSharpExpress_VJH-Q\QSharpExpress\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\MyProject\VRH\VRH-Q\trunk\QSharpExpress_VJH-Q\QSharpExpress\obj\Debug\ResolveAssemblyReference.cache
+D:\MyProject\VRH\VRH-Q\trunk\QSharpExpress_VJH-Q\QSharpExpress\obj\Debug\QSharpExpress.Dialog1.resources
+D:\MyProject\VRH\VRH-Q\trunk\QSharpExpress_VJH-Q\QSharpExpress\obj\Debug\QSharpExpress.frmQueueSharpExpress.resources
+D:\MyProject\VRH\VRH-Q\trunk\QSharpExpress_VJH-Q\QSharpExpress\obj\Debug\QSharpExpress.Resources.resources
+D:\MyProject\VRH\VRH-Q\trunk\QSharpExpress_VJH-Q\QSharpExpress\obj\Debug\QSharpExpress.vbproj.GenerateResource.Cache

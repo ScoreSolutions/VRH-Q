@@ -1,0 +1,36 @@
+D:\MyProject\Queue VRH Display\Queue VRH Display\obj\Debug\Queue VRH Display.exe
+D:\MyProject\Queue VRH Display\Queue VRH Display\obj\Debug\Queue VRH Display.xml
+D:\MyProject\Queue VRH Display\Queue VRH Display\obj\Debug\Queue VRH Display.pdb
+D:\MyProject\Queue VRH Display\Queue VRH Display\bin\Debug\Queue VRH Display.exe
+D:\MyProject\Queue VRH Display\Queue VRH Display\bin\Debug\Queue VRH Display.pdb
+D:\MyProject\Queue VRH Display\Queue VRH Display\bin\Debug\Queue VRH Display.xml
+D:\MyProject\Queue VRH Display\Queue VRH Display\obj\Debug\ResolveAssemblyReference.cache
+D:\MyProject\Queue VRH Display\Queue VRH Display\obj\Debug\Queue_VRH_Display.Resources.resources
+D:\MyProject\Queue VRH Display\Queue VRH Display\obj\Debug\Queue VRH Display.vbproj.GenerateResource.Cache
+D:\MyProject\Queue VRH Display\Queue VRH Display\obj\Debug\Queue_VRH_Display.frmDisplayAgent.resources
+D:\MyProject\Queue VRH Display\Queue VRH Display\obj\Debug\Queue_VRH_Display.frmSettings.resources
+D:\MyProject\Queue VRH Display\Queue VRH Display\bin\Debug\template.mdb
+D:\MyProject\Queue VRH Display 2\Queue VRH Display\obj\Debug\ResolveAssemblyReference.cache
+D:\MyProject\Queue VRH Display 2\Queue VRH Display\obj\Debug\Queue_VRH_Display.frmDisplayAgent.resources
+D:\MyProject\Queue VRH Display 2\Queue VRH Display\obj\Debug\Queue_VRH_Display.frmSettings.resources
+D:\MyProject\Queue VRH Display 2\Queue VRH Display\obj\Debug\Queue_VRH_Display.Resources.resources
+D:\MyProject\Queue VRH Display 2\Queue VRH Display\obj\Debug\Queue VRH Display.vbproj.GenerateResource.Cache
+D:\MyProject\Queue VRH Display 2\Queue VRH Display\bin\Debug\template.mdb
+D:\MyProject\Queue VRH Display 2\Queue VRH Display\bin\Debug\Queue VRH Display 2.exe
+D:\MyProject\Queue VRH Display 2\Queue VRH Display\bin\Debug\Queue VRH Display 2.pdb
+D:\MyProject\Queue VRH Display 2\Queue VRH Display\bin\Debug\Queue VRH Display 2.xml
+D:\MyProject\Queue VRH Display 2\Queue VRH Display\obj\Debug\Queue VRH Display 2.exe
+D:\MyProject\Queue VRH Display 2\Queue VRH Display\obj\Debug\Queue VRH Display 2.xml
+D:\MyProject\Queue VRH Display 2\Queue VRH Display\obj\Debug\Queue VRH Display 2.pdb
+D:\MyProject\Queue VRH Display 2\Queue VRH Display\bin\Release\template.mdb
+D:\MyProject\Queue VRH Display 2\Queue VRH Display\bin\Release\Queue VRH Display 2.exe
+D:\MyProject\Queue VRH Display 2\Queue VRH Display\bin\Release\Queue VRH Display 2.pdb
+D:\MyProject\Queue VRH Display 2\Queue VRH Display\bin\Release\Queue VRH Display 2.xml
+D:\MyProject\Queue VRH Display 2\Queue VRH Display\obj\Release\ResolveAssemblyReference.cache
+D:\MyProject\Queue VRH Display 2\Queue VRH Display\obj\Release\Queue_VRH_Display.frmDisplayAgent.resources
+D:\MyProject\Queue VRH Display 2\Queue VRH Display\obj\Release\Queue_VRH_Display.frmSettings.resources
+D:\MyProject\Queue VRH Display 2\Queue VRH Display\obj\Release\Queue_VRH_Display.Resources.resources
+D:\MyProject\Queue VRH Display 2\Queue VRH Display\obj\Release\Queue VRH Display.vbproj.GenerateResource.Cache
+D:\MyProject\Queue VRH Display 2\Queue VRH Display\obj\Release\Queue VRH Display 2.exe
+D:\MyProject\Queue VRH Display 2\Queue VRH Display\obj\Release\Queue VRH Display 2.xml
+D:\MyProject\Queue VRH Display 2\Queue VRH Display\obj\Release\Queue VRH Display 2.pdb

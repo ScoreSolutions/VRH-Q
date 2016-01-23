@@ -1,0 +1,6 @@
+C:\Users\xXx\Desktop\VRH\VRH Queue Remote Control\VRH Queue Remote Control\obj\Debug\VRH Queue Remote Control.xml
+C:\Users\xXx\Desktop\VRH\VRH Queue Remote Control\VRH Queue Remote Control\obj\Debug\VRH Queue Remote Control.pdb
+D:\Project\Score Solutions\VRH\VRH Queue Remote Control\VRH Queue Remote Control\obj\Debug\VRH Queue Remote Control.xml
+D:\Project\Score Solutions\VRH\VRH Queue Remote Control\VRH Queue Remote Control\obj\Debug\VRH Queue Remote Control.pdb
+D:\MyProject\VRH\vrh queue remote control\VRH Queue Remote Control\obj\Debug\VRH Queue Remote Control.xml
+D:\MyProject\VRH\vrh queue remote control\VRH Queue Remote Control\obj\Debug\VRH Queue Remote Control.pdb

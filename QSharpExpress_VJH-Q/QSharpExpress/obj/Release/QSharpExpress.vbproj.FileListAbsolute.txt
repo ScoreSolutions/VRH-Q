@@ -1,0 +1,12 @@
+K:\Skydrive\QSharpExpress\QSharpExpress\bin\Release\QSharpExpress.exe.config
+K:\Skydrive\QSharpExpress\QSharpExpress\bin\Release\QSharpExpress.exe
+K:\Skydrive\QSharpExpress\QSharpExpress\bin\Release\QSharpExpress.pdb
+K:\Skydrive\QSharpExpress\QSharpExpress\bin\Release\QSharpExpress.xml
+K:\Skydrive\QSharpExpress\QSharpExpress\obj\Release\ResolveAssemblyReference.cache
+K:\Skydrive\QSharpExpress\QSharpExpress\obj\Release\QSharpExpress.Dialog1.resources
+K:\Skydrive\QSharpExpress\QSharpExpress\obj\Release\QSharpExpress.Form1.resources
+K:\Skydrive\QSharpExpress\QSharpExpress\obj\Release\QSharpExpress.Resources.resources
+K:\Skydrive\QSharpExpress\QSharpExpress\obj\Release\QSharpExpress.vbproj.GenerateResource.Cache
+K:\Skydrive\QSharpExpress\QSharpExpress\obj\Release\QSharpExpress.exe
+K:\Skydrive\QSharpExpress\QSharpExpress\obj\Release\QSharpExpress.xml
+K:\Skydrive\QSharpExpress\QSharpExpress\obj\Release\QSharpExpress.pdb

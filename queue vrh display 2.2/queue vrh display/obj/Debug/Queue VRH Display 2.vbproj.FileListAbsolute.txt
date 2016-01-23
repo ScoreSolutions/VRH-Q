@@ -1,0 +1,51 @@
+C:\Users\xXx\Desktop\VRH\Queue VRH Display 2.2\Queue VRH Display\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\xXx\Desktop\VRH\Queue VRH Display 2.2\Queue VRH Display\obj\Debug\Interop.WMPLib.dll
+C:\Users\xXx\Desktop\VRH\Queue VRH Display 2.2\Queue VRH Display\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\xXx\Desktop\VRH\Queue VRH Display 2.2\Queue VRH Display\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\xXx\Desktop\VRH\Queue VRH Display 2.2\Queue VRH Display\obj\Debug\Queue VRH Display 2.vbproj.ResolveComReference.cache
+C:\Users\xXx\Desktop\VRH\Queue VRH Display 2.2\Queue VRH Display\obj\Debug\Queue VRH Display 2.xml
+C:\Users\xXx\Desktop\VRH\Queue VRH Display 2.2\Queue VRH Display\obj\Debug\Queue VRH Display 2.pdb
+C:\Users\xXx\Desktop\New folder\VRH\Queue VRH Display 2.2\Queue VRH Display\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\xXx\Desktop\New folder\VRH\Queue VRH Display 2.2\Queue VRH Display\obj\Debug\Interop.WMPLib.dll
+C:\Users\xXx\Desktop\New folder\VRH\Queue VRH Display 2.2\Queue VRH Display\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\xXx\Desktop\New folder\VRH\Queue VRH Display 2.2\Queue VRH Display\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\xXx\Desktop\New folder\VRH\Queue VRH Display 2.2\Queue VRH Display\obj\Debug\Queue VRH Display 2.vbproj.ResolveComReference.cache
+C:\Users\xXx\Desktop\New folder\VRH\Queue VRH Display 2.2\Queue VRH Display\obj\Debug\Queue VRH Display 2.xml
+C:\Users\xXx\Desktop\New folder\VRH\Queue VRH Display 2.2\Queue VRH Display\obj\Debug\Queue VRH Display 2.pdb
+C:\Users\xXx\Desktop\New folder\VRH\Queue VRH Display 2.2\Queue VRH Display\bin\Debug\vrh_display_2_vdo.swf
+C:\Users\xXx\Desktop\New folder\VRH\Queue VRH Display 2.2\Queue VRH Display\bin\Debug\template.mdb
+C:\Users\xXx\Desktop\New folder\VRH\Queue VRH Display 2.2\Queue VRH Display\bin\Debug\vrh_display_2_flash.swf
+C:\Users\xXx\Desktop\New folder\VRH\Queue VRH Display 2.2\Queue VRH Display\bin\Debug\Queue VRH Display 2.exe
+C:\Users\xXx\Desktop\New folder\VRH\Queue VRH Display 2.2\Queue VRH Display\bin\Debug\Queue VRH Display 2.pdb
+C:\Users\xXx\Desktop\New folder\VRH\Queue VRH Display 2.2\Queue VRH Display\bin\Debug\Queue VRH Display 2.xml
+C:\Users\xXx\Desktop\New folder\VRH\Queue VRH Display 2.2\Queue VRH Display\bin\Debug\TextboxEx.pdb
+C:\Users\xXx\Desktop\New folder\VRH\Queue VRH Display 2.2\Queue VRH Display\bin\Debug\TextboxEx.xml
+C:\Users\xXx\Desktop\New folder\VRH\Queue VRH Display 2.2\Queue VRH Display\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\xXx\Desktop\New folder\VRH\Queue VRH Display 2.2\Queue VRH Display\bin\Debug\Interop.WMPLib.dll
+C:\Users\xXx\Desktop\New folder\VRH\Queue VRH Display 2.2\Queue VRH Display\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\xXx\Desktop\New folder\VRH\Queue VRH Display 2.2\Queue VRH Display\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\xXx\Desktop\New folder\VRH\Queue VRH Display 2.2\Queue VRH Display\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\xXx\Desktop\New folder\VRH\Queue VRH Display 2.2\Queue VRH Display\obj\Debug\Queue_VRH_Display.frmDisplay.resources
+C:\Users\xXx\Desktop\New folder\VRH\Queue VRH Display 2.2\Queue VRH Display\obj\Debug\Queue_VRH_Display.frmDisplayAgent.resources
+C:\Users\xXx\Desktop\New folder\VRH\Queue VRH Display 2.2\Queue VRH Display\obj\Debug\Queue_VRH_Display.frmManageCounter.resources
+C:\Users\xXx\Desktop\New folder\VRH\Queue VRH Display 2.2\Queue VRH Display\obj\Debug\Queue_VRH_Display.frmSettings.resources
+C:\Users\xXx\Desktop\New folder\VRH\Queue VRH Display 2.2\Queue VRH Display\obj\Debug\Queue_VRH_Display.frmVDOTime.resources
+C:\Users\xXx\Desktop\New folder\VRH\Queue VRH Display 2.2\Queue VRH Display\obj\Debug\Queue_VRH_Display.Resources.resources
+C:\Users\xXx\Desktop\New folder\VRH\Queue VRH Display 2.2\Queue VRH Display\obj\Debug\Queue VRH Display 2.vbproj.GenerateResource.Cache
+C:\Users\xXx\Desktop\New folder\VRH\Queue VRH Display 2.2\Queue VRH Display\obj\Debug\Queue VRH Display 2.exe
+D:\Project\Score Solutions\VRH\Queue VRH Display 2.2\Queue VRH Display\obj\Debug\Interop.ShockwaveFlashObjects.dll
+D:\Project\Score Solutions\VRH\Queue VRH Display 2.2\Queue VRH Display\obj\Debug\Interop.WMPLib.dll
+D:\Project\Score Solutions\VRH\Queue VRH Display 2.2\Queue VRH Display\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\Project\Score Solutions\VRH\Queue VRH Display 2.2\Queue VRH Display\obj\Debug\AxInterop.WMPLib.dll
+D:\Project\Score Solutions\VRH\Queue VRH Display 2.2\Queue VRH Display\obj\Debug\Queue VRH Display 2.vbproj.ResolveComReference.cache
+D:\Project\Score Solutions\VRH\Queue VRH Display 2.2\Queue VRH Display\obj\Debug\Queue VRH Display 2.exe
+D:\Project\Score Solutions\VRH\Queue VRH Display 2.2\Queue VRH Display\obj\Debug\Queue VRH Display 2.xml
+D:\Project\Score Solutions\VRH\Queue VRH Display 2.2\Queue VRH Display\obj\Debug\Queue VRH Display 2.pdb
+D:\MyProject\VRH\VRH-Q\trunk\queue vrh display 2.2\Queue VRH Display\obj\Debug\Interop.ShockwaveFlashObjects.dll
+D:\MyProject\VRH\VRH-Q\trunk\queue vrh display 2.2\Queue VRH Display\obj\Debug\Interop.WMPLib.dll
+D:\MyProject\VRH\VRH-Q\trunk\queue vrh display 2.2\Queue VRH Display\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\MyProject\VRH\VRH-Q\trunk\queue vrh display 2.2\Queue VRH Display\obj\Debug\AxInterop.WMPLib.dll
+D:\MyProject\VRH\VRH-Q\trunk\queue vrh display 2.2\Queue VRH Display\obj\Debug\Queue VRH Display 2.vbproj.ResolveComReference.cache
+D:\MyProject\VRH\VRH-Q\trunk\queue vrh display 2.2\Queue VRH Display\obj\Debug\Queue VRH Display 2.exe
+D:\MyProject\VRH\VRH-Q\trunk\queue vrh display 2.2\Queue VRH Display\obj\Debug\Queue VRH Display 2.xml
+D:\MyProject\VRH\VRH-Q\trunk\queue vrh display 2.2\Queue VRH Display\obj\Debug\Queue VRH Display 2.pdb

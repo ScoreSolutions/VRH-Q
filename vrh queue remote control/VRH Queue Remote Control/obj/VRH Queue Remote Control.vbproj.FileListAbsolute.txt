@@ -1,0 +1,12 @@
+D:\MyProject\VRH Queue Remote Control\VRH Queue Remote Control\obj\Debug\VRH Queue Remote Control.exe
+D:\MyProject\VRH Queue Remote Control\VRH Queue Remote Control\obj\Debug\VRH Queue Remote Control.xml
+D:\MyProject\VRH Queue Remote Control\VRH Queue Remote Control\obj\Debug\VRH Queue Remote Control.pdb
+D:\MyProject\VRH Queue Remote Control\VRH Queue Remote Control\bin\Debug\MCLHotkey.dll
+D:\MyProject\VRH Queue Remote Control\VRH Queue Remote Control\bin\Debug\VRH Queue Remote Control.exe
+D:\MyProject\VRH Queue Remote Control\VRH Queue Remote Control\bin\Debug\VRH Queue Remote Control.pdb
+D:\MyProject\VRH Queue Remote Control\VRH Queue Remote Control\bin\Debug\VRH Queue Remote Control.xml
+D:\MyProject\VRH Queue Remote Control\VRH Queue Remote Control\obj\Debug\ResolveAssemblyReference.cache
+D:\MyProject\VRH Queue Remote Control\VRH Queue Remote Control\obj\Debug\VRH_Queue_Remote_Control.frmChooseQueue.resources
+D:\MyProject\VRH Queue Remote Control\VRH Queue Remote Control\obj\Debug\VRH_Queue_Remote_Control.frmMain.resources
+D:\MyProject\VRH Queue Remote Control\VRH Queue Remote Control\obj\Debug\VRH_Queue_Remote_Control.Resources.resources
+D:\MyProject\VRH Queue Remote Control\VRH Queue Remote Control\obj\Debug\VRH Queue Remote Control.vbproj.GenerateResource.Cache

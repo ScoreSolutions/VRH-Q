@@ -1,0 +1,109 @@
+D:\MyProject\Queue VRH Display 2\Queue VRH Display\obj\Debug\Queue VRH Display 2.exe
+D:\MyProject\Queue VRH Display 2\Queue VRH Display\obj\Debug\Queue VRH Display 2.xml
+D:\MyProject\Queue VRH Display 2\Queue VRH Display\obj\Debug\Queue VRH Display 2.pdb
+D:\MyProject\Queue VRH Display 2\Queue VRH Display\bin\Debug\template.mdb
+D:\MyProject\Queue VRH Display 2\Queue VRH Display\bin\Debug\Queue VRH Display 2.exe
+D:\MyProject\Queue VRH Display 2\Queue VRH Display\obj\Debug\ResolveAssemblyReference.cache
+D:\MyProject\Queue VRH Display 2\Queue VRH Display\obj\Debug\Queue_VRH_Display.frmDisplayAgent.resources
+D:\MyProject\Queue VRH Display 2\Queue VRH Display\obj\Debug\Queue_VRH_Display.frmSettings.resources
+D:\MyProject\Queue VRH Display 2\Queue VRH Display\obj\Debug\Queue_VRH_Display.Resources.resources
+D:\MyProject\Queue VRH Display 2\Queue VRH Display\obj\Debug\Queue VRH Display 2.vbproj.GenerateResource.Cache
+D:\MyProject\Queue VRH Display 2\Queue VRH Display\bin\Debug\Queue VRH Display 2.pdb
+D:\MyProject\Queue VRH Display 2\Queue VRH Display\bin\Debug\Queue VRH Display 2.xml
+D:\MyProject\Queue VRH Display 2\Queue VRH Display\obj\Debug\Queue_VRH_Display.frmVDOTime.resources
+D:\MyProject\Queue VRH Display 2\Queue VRH Display\bin\Debug\Interop.ShockwaveFlashObjects.dll
+D:\MyProject\Queue VRH Display 2\Queue VRH Display\bin\Debug\Interop.WMPLib.dll
+D:\MyProject\Queue VRH Display 2\Queue VRH Display\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\MyProject\Queue VRH Display 2\Queue VRH Display\bin\Debug\AxInterop.WMPLib.dll
+D:\MyProject\Queue VRH Display 2\Queue VRH Display\obj\Debug\Interop.ShockwaveFlashObjects.dll
+D:\MyProject\Queue VRH Display 2\Queue VRH Display\obj\Debug\Interop.WMPLib.dll
+D:\MyProject\Queue VRH Display 2\Queue VRH Display\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\MyProject\Queue VRH Display 2\Queue VRH Display\obj\Debug\AxInterop.WMPLib.dll
+D:\MyProject\Queue VRH Display 2\Queue VRH Display\obj\Debug\Queue VRH Display 2.vbproj.ResolveComReference.cache
+D:\MyProject\Queue VRH Display 2\Queue VRH Display\obj\Debug\Queue_VRH_Display.frmDisplay.resources
+D:\MyProject\Queue VRH Display 2\Queue VRH Display\bin\Release\template.mdb
+D:\MyProject\Queue VRH Display 2\Queue VRH Display\bin\Release\vrh_display_2.swf
+D:\MyProject\Queue VRH Display 2\Queue VRH Display\bin\Release\Queue VRH Display 2.exe
+D:\MyProject\Queue VRH Display 2\Queue VRH Display\bin\Release\Queue VRH Display 2.pdb
+D:\MyProject\Queue VRH Display 2\Queue VRH Display\bin\Release\Queue VRH Display 2.xml
+D:\MyProject\Queue VRH Display 2\Queue VRH Display\bin\Release\Interop.ShockwaveFlashObjects.dll
+D:\MyProject\Queue VRH Display 2\Queue VRH Display\bin\Release\Interop.WMPLib.dll
+D:\MyProject\Queue VRH Display 2\Queue VRH Display\bin\Release\AxInterop.ShockwaveFlashObjects.dll
+D:\MyProject\Queue VRH Display 2\Queue VRH Display\bin\Release\AxInterop.WMPLib.dll
+D:\MyProject\Queue VRH Display 2\Queue VRH Display\obj\Release\ResolveAssemblyReference.cache
+D:\MyProject\Queue VRH Display 2\Queue VRH Display\obj\Release\Interop.ShockwaveFlashObjects.dll
+D:\MyProject\Queue VRH Display 2\Queue VRH Display\obj\Release\Interop.WMPLib.dll
+D:\MyProject\Queue VRH Display 2\Queue VRH Display\obj\Release\AxInterop.ShockwaveFlashObjects.dll
+D:\MyProject\Queue VRH Display 2\Queue VRH Display\obj\Release\AxInterop.WMPLib.dll
+D:\MyProject\Queue VRH Display 2\Queue VRH Display\obj\Release\Queue VRH Display 2.vbproj.ResolveComReference.cache
+D:\MyProject\Queue VRH Display 2\Queue VRH Display\obj\Release\Queue_VRH_Display.frmDisplay.resources
+D:\MyProject\Queue VRH Display 2\Queue VRH Display\obj\Release\Queue_VRH_Display.frmDisplayAgent.resources
+D:\MyProject\Queue VRH Display 2\Queue VRH Display\obj\Release\Queue_VRH_Display.frmSettings.resources
+D:\MyProject\Queue VRH Display 2\Queue VRH Display\obj\Release\Queue_VRH_Display.frmVDOTime.resources
+D:\MyProject\Queue VRH Display 2\Queue VRH Display\obj\Release\Queue_VRH_Display.Resources.resources
+D:\MyProject\Queue VRH Display 2\Queue VRH Display\obj\Release\Queue VRH Display 2.vbproj.GenerateResource.Cache
+D:\MyProject\Queue VRH Display 2\Queue VRH Display\obj\Release\Queue VRH Display 2.exe
+D:\MyProject\Queue VRH Display 2\Queue VRH Display\obj\Release\Queue VRH Display 2.xml
+D:\MyProject\Queue VRH Display 2\Queue VRH Display\obj\Release\Queue VRH Display 2.pdb
+D:\MyProject\Queue VRH Display 2\Queue VRH Display\bin\Debug\vrh_display_2_vdo.swf
+D:\MyProject\Queue VRH Display 2\Queue VRH Display\bin\Debug\TextboxEx.dll
+D:\MyProject\Queue VRH Display 2\Queue VRH Display\bin\Debug\TextboxEx.pdb
+D:\MyProject\Queue VRH Display 2\Queue VRH Display\bin\Debug\TextboxEx.xml
+D:\MyProject\Queue VRH Display 2\Queue VRH Display\obj\Debug\Queue_VRH_Display.frmManageCounter.resources
+D:\MyProject\Queue VRH Display 2\Queue VRH Display\bin\Debug\vrh_display_2_flash.swf
+C:\Users\doggy\Desktop\Works\Queue VRH Display 2\Queue VRH Display\obj\Debug\Queue VRH Display 2.exe
+C:\Users\doggy\Desktop\Works\Queue VRH Display 2\Queue VRH Display\obj\Debug\Queue VRH Display 2.xml
+C:\Users\doggy\Desktop\Works\Queue VRH Display 2\Queue VRH Display\obj\Debug\Queue VRH Display 2.pdb
+C:\Users\doggy\Desktop\Works\Queue VRH Display 2\Queue VRH Display\bin\Debug\template.mdb
+C:\Users\doggy\Desktop\Works\Queue VRH Display 2\Queue VRH Display\bin\Debug\vrh_display_2_flash.swf
+C:\Users\doggy\Desktop\Works\Queue VRH Display 2\Queue VRH Display\bin\Debug\vrh_display_2_vdo.swf
+C:\Users\doggy\Desktop\Works\Queue VRH Display 2\Queue VRH Display\bin\Debug\Queue VRH Display 2.exe
+C:\Users\doggy\Desktop\Works\Queue VRH Display 2\Queue VRH Display\bin\Debug\Queue VRH Display 2.pdb
+C:\Users\doggy\Desktop\Works\Queue VRH Display 2\Queue VRH Display\bin\Debug\Queue VRH Display 2.xml
+C:\Users\doggy\Desktop\Works\Queue VRH Display 2\Queue VRH Display\bin\Debug\TextboxEx.pdb
+C:\Users\doggy\Desktop\Works\Queue VRH Display 2\Queue VRH Display\bin\Debug\TextboxEx.xml
+C:\Users\doggy\Desktop\Works\Queue VRH Display 2\Queue VRH Display\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\doggy\Desktop\Works\Queue VRH Display 2\Queue VRH Display\bin\Debug\Interop.WMPLib.dll
+C:\Users\doggy\Desktop\Works\Queue VRH Display 2\Queue VRH Display\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\doggy\Desktop\Works\Queue VRH Display 2\Queue VRH Display\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\doggy\Desktop\Works\Queue VRH Display 2\Queue VRH Display\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\doggy\Desktop\Works\Queue VRH Display 2\Queue VRH Display\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\doggy\Desktop\Works\Queue VRH Display 2\Queue VRH Display\obj\Debug\Interop.WMPLib.dll
+C:\Users\doggy\Desktop\Works\Queue VRH Display 2\Queue VRH Display\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\doggy\Desktop\Works\Queue VRH Display 2\Queue VRH Display\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\doggy\Desktop\Works\Queue VRH Display 2\Queue VRH Display\obj\Debug\Queue VRH Display 2.vbproj.ResolveComReference.cache
+C:\Users\doggy\Desktop\Works\Queue VRH Display 2\Queue VRH Display\obj\Debug\Queue_VRH_Display.frmDisplay.resources
+C:\Users\doggy\Desktop\Works\Queue VRH Display 2\Queue VRH Display\obj\Debug\Queue_VRH_Display.frmDisplayAgent.resources
+C:\Users\doggy\Desktop\Works\Queue VRH Display 2\Queue VRH Display\obj\Debug\Queue_VRH_Display.frmManageCounter.resources
+C:\Users\doggy\Desktop\Works\Queue VRH Display 2\Queue VRH Display\obj\Debug\Queue_VRH_Display.frmSettings.resources
+C:\Users\doggy\Desktop\Works\Queue VRH Display 2\Queue VRH Display\obj\Debug\Queue_VRH_Display.frmVDOTime.resources
+C:\Users\doggy\Desktop\Works\Queue VRH Display 2\Queue VRH Display\obj\Debug\Queue_VRH_Display.Resources.resources
+C:\Users\doggy\Desktop\Works\Queue VRH Display 2\Queue VRH Display\obj\Debug\Queue VRH Display 2.vbproj.GenerateResource.Cache
+C:\Users\doggy\Desktop\Works\Queue VRH Display 2.2\Queue VRH Display\obj\Debug\Queue VRH Display 2.exe
+C:\Users\doggy\Desktop\Works\Queue VRH Display 2.2\Queue VRH Display\obj\Debug\Queue VRH Display 2.xml
+C:\Users\doggy\Desktop\Works\Queue VRH Display 2.2\Queue VRH Display\obj\Debug\Queue VRH Display 2.pdb
+C:\Users\doggy\Desktop\Works\Queue VRH Display 2.2\Queue VRH Display\bin\Debug\template.mdb
+C:\Users\doggy\Desktop\Works\Queue VRH Display 2.2\Queue VRH Display\bin\Debug\vrh_display_2_flash.swf
+C:\Users\doggy\Desktop\Works\Queue VRH Display 2.2\Queue VRH Display\bin\Debug\vrh_display_2_vdo.swf
+C:\Users\doggy\Desktop\Works\Queue VRH Display 2.2\Queue VRH Display\bin\Debug\Queue VRH Display 2.exe
+C:\Users\doggy\Desktop\Works\Queue VRH Display 2.2\Queue VRH Display\bin\Debug\Queue VRH Display 2.pdb
+C:\Users\doggy\Desktop\Works\Queue VRH Display 2.2\Queue VRH Display\bin\Debug\Queue VRH Display 2.xml
+C:\Users\doggy\Desktop\Works\Queue VRH Display 2.2\Queue VRH Display\bin\Debug\TextboxEx.pdb
+C:\Users\doggy\Desktop\Works\Queue VRH Display 2.2\Queue VRH Display\bin\Debug\TextboxEx.xml
+C:\Users\doggy\Desktop\Works\Queue VRH Display 2.2\Queue VRH Display\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\doggy\Desktop\Works\Queue VRH Display 2.2\Queue VRH Display\bin\Debug\Interop.WMPLib.dll
+C:\Users\doggy\Desktop\Works\Queue VRH Display 2.2\Queue VRH Display\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\doggy\Desktop\Works\Queue VRH Display 2.2\Queue VRH Display\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\doggy\Desktop\Works\Queue VRH Display 2.2\Queue VRH Display\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\doggy\Desktop\Works\Queue VRH Display 2.2\Queue VRH Display\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\doggy\Desktop\Works\Queue VRH Display 2.2\Queue VRH Display\obj\Debug\Interop.WMPLib.dll
+C:\Users\doggy\Desktop\Works\Queue VRH Display 2.2\Queue VRH Display\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\doggy\Desktop\Works\Queue VRH Display 2.2\Queue VRH Display\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\doggy\Desktop\Works\Queue VRH Display 2.2\Queue VRH Display\obj\Debug\Queue VRH Display 2.vbproj.ResolveComReference.cache
+C:\Users\doggy\Desktop\Works\Queue VRH Display 2.2\Queue VRH Display\obj\Debug\Queue_VRH_Display.frmDisplay.resources
+C:\Users\doggy\Desktop\Works\Queue VRH Display 2.2\Queue VRH Display\obj\Debug\Queue_VRH_Display.frmDisplayAgent.resources
+C:\Users\doggy\Desktop\Works\Queue VRH Display 2.2\Queue VRH Display\obj\Debug\Queue_VRH_Display.frmManageCounter.resources
+C:\Users\doggy\Desktop\Works\Queue VRH Display 2.2\Queue VRH Display\obj\Debug\Queue_VRH_Display.frmSettings.resources
+C:\Users\doggy\Desktop\Works\Queue VRH Display 2.2\Queue VRH Display\obj\Debug\Queue_VRH_Display.frmVDOTime.resources
+C:\Users\doggy\Desktop\Works\Queue VRH Display 2.2\Queue VRH Display\obj\Debug\Queue_VRH_Display.Resources.resources
+C:\Users\doggy\Desktop\Works\Queue VRH Display 2.2\Queue VRH Display\obj\Debug\Queue VRH Display 2.vbproj.GenerateResource.Cache
